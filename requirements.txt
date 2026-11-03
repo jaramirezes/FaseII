@@ -6,3 +6,5 @@ torch==2.2.1
 transformers==4.38.2
 pillow==10.2.0
 safetensors
+streamlit
+requests
