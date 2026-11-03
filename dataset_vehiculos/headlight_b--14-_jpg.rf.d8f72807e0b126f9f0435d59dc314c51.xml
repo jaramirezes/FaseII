@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>headlight_b--14-_jpg.rf.d8f72807e0b126f9f0435d59dc314c51.jpg</filename>
+	<path>headlight_b--14-_jpg.rf.d8f72807e0b126f9f0435d59dc314c51.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Headlight-Damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>616</xmax>
+			<ymin>91</ymin>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

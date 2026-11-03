@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>back_light-1---2-_jpg.rf.bc020bf60e27e286dc3b5c745d791420.jpg</filename>
+	<path>back_light-1---2-_jpg.rf.bc020bf60e27e286dc3b5c745d791420.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonnet-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>72</xmin>
+			<xmax>635</xmax>
+			<ymin>1</ymin>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>car_fender--23-_jpg.rf.891c897157dbe95c80e65ff0162f6cca.jpg</filename>
+	<path>car_fender--23-_jpg.rf.891c897157dbe95c80e65ff0162f6cca.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fender-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>415</xmax>
+			<ymin>185</ymin>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>side_mirror--18-_jpg.rf.2d3b021a9a5ed97e74e6e93bc5c7c57f.jpg</filename>
+	<path>side_mirror--18-_jpg.rf.2d3b021a9a5ed97e74e6e93bc5c7c57f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sidemirror-Damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>47</xmin>
+			<xmax>370</xmax>
+			<ymin>176</ymin>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

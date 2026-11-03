@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rear_bumper-sep23---49-_jpg.rf.ce1fc12f89781051d3a38da5bc76b27d.jpg</filename>
+	<path>rear_bumper-sep23---49-_jpg.rf.ce1fc12f89781051d3a38da5bc76b27d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>front-bumper-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>454</xmax>
+			<ymin>134</ymin>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

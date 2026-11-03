@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>scratch_bonnet--44-_jpg.rf.92af659f3781c48842ddcded9693d82c.jpg</filename>
+	<path>scratch_bonnet--44-_jpg.rf.92af659f3781c48842ddcded9693d82c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonnet-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>625</xmax>
+			<ymin>139</ymin>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>

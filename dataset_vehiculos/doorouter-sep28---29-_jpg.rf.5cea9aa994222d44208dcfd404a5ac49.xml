@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>doorouter-sep28---29-_jpg.rf.5cea9aa994222d44208dcfd404a5ac49.jpg</filename>
+	<path>doorouter-sep28---29-_jpg.rf.5cea9aa994222d44208dcfd404a5ac49.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fender-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>183</xmin>
+			<xmax>420</xmax>
+			<ymin>55</ymin>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

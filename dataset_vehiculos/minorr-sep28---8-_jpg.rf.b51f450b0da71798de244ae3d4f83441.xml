@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>minorr-sep28---8-_jpg.rf.b51f450b0da71798de244ae3d4f83441.jpg</filename>
+	<path>minorr-sep28---8-_jpg.rf.b51f450b0da71798de244ae3d4f83441.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonnet-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>573</xmax>
+			<ymin>1</ymin>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

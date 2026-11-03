@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>body_pannel--35-_jpg.rf.1c3be486231166948270a2bea2b0bdd1.jpg</filename>
+	<path>body_pannel--35-_jpg.rf.1c3be486231166948270a2bea2b0bdd1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quaterpanel-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>224</xmin>
+			<xmax>519</xmax>
+			<ymin>1</ymin>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

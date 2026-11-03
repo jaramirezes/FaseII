@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>LH-quarter-panel-painting_jpeg.rf.7ae2e97aeb976ee1d09360d6537841c7.jpg</filename>
+	<path>LH-quarter-panel-painting_jpeg.rf.7ae2e97aeb976ee1d09360d6537841c7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quaterpanel-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>282</xmin>
+			<xmax>480</xmax>
+			<ymin>5</ymin>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

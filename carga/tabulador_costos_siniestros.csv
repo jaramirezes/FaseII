@@ -1,0 +1,391 @@
+marca,modelo,anio,tipo_vehiculo,label_real,descripcion_dano_es,monto_reparacion_estimado_mxn
+Ford,Ranger,2025,Pickup,front-bumper-dent,Abolladura en parachoques delantero,4450
+Toyota,Corolla,2017,Sedán,bonnet-dent,Abolladura en cofre / capó,3350
+Volkswagen,Tiguan,2018,SUV,rear-bumper-dent,Abolladura en parachoques trasero,2570
+Volkswagen,Tiguan,2016,SUV,doorouter-dent,Abolladura en puerta exterior,4750
+Chevrolet,Captiva,2019,SUV,fender-dent,Abolladura en salpicadera / guardabarros,3360
+Chevrolet,S10,2026,Pickup,quaterpanel-dent,Abolladura en panel lateral trasero,3580
+Volkswagen,Taos,2024,SUV,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,4210
+Ford,Escape,2026,SUV,Headlight-Damage,Faro delantero roto o dañado,3190
+Nissan,Kicks,2019,SUV,Taillight-Damage,Calavera / luz trasera rota o dañada,2900
+Toyota,Yaris,2021,Sedán,Sidemirror-Damage,Espejo lateral roto o desprendido,1220
+Nissan,March,2016,Hatchback,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,6430
+Chevrolet,S10,2016,Pickup,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2960
+Ford,Territory,2022,SUV,roof-dent,Abolladura en toldo / techo,4150
+Nissan,March,2016,Hatchback,Signlight-Damage,Luz direccional / cuarto dañado,1600
+Chevrolet,Onix,2018,Sedán,front-bumper-dent,Abolladura en parachoques delantero,2960
+Chevrolet,Onix,2026,Sedán,bonnet-dent,Abolladura en cofre / capó,6290
+Ford,Territory,2023,SUV,rear-bumper-dent,Abolladura en parachoques trasero,4700
+Toyota,Avanza,2016,Monovolumen,doorouter-dent,Abolladura en puerta exterior,4260
+Chevrolet,Aveo,2026,Sedán,fender-dent,Abolladura en salpicadera / guardabarros,3340
+Toyota,Yaris,2015,Sedán,quaterpanel-dent,Abolladura en panel lateral trasero,3550
+Nissan,Versa,2026,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,5320
+Volkswagen,Taos,2015,SUV,Headlight-Damage,Faro delantero roto o dañado,3720
+Volkswagen,Jetta,2025,Sedán,Taillight-Damage,Calavera / luz trasera rota o dañada,1670
+Chevrolet,Aveo,2026,Sedán,Sidemirror-Damage,Espejo lateral roto o desprendido,2750
+Ford,Focus,2015,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,4820
+Toyota,RAV4,2026,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2880
+Volkswagen,Taos,2015,SUV,roof-dent,Abolladura en toldo / techo,5720
+Volkswagen,Jetta,2019,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,1470
+Volkswagen,Jetta,2024,Sedán,front-bumper-dent,Abolladura en parachoques delantero,2560
+Toyota,RAV4,2021,SUV,bonnet-dent,Abolladura en cofre / capó,4660
+Toyota,Hilux,2019,Pickup,rear-bumper-dent,Abolladura en parachoques trasero,2850
+Toyota,RAV4,2018,SUV,doorouter-dent,Abolladura en puerta exterior,5350
+Volkswagen,Taos,2020,SUV,fender-dent,Abolladura en salpicadera / guardabarros,3940
+Chevrolet,S10,2023,Pickup,quaterpanel-dent,Abolladura en panel lateral trasero,3870
+Ford,Territory,2026,SUV,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,4840
+Volkswagen,Vento,2021,Sedán,Headlight-Damage,Faro delantero roto o dañado,4220
+Nissan,Versa,2023,Sedán,Taillight-Damage,Calavera / luz trasera rota o dañada,2990
+Nissan,March,2023,Hatchback,Sidemirror-Damage,Espejo lateral roto o desprendido,1750
+Volkswagen,Jetta,2019,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,7960
+Chevrolet,Captiva,2022,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,3400
+Nissan,March,2015,Hatchback,roof-dent,Abolladura en toldo / techo,4290
+Chevrolet,Captiva,2026,SUV,Signlight-Damage,Luz direccional / cuarto dañado,1100
+Chevrolet,Tracker,2015,SUV,front-bumper-dent,Abolladura en parachoques delantero,2870
+Nissan,Kicks,2015,SUV,bonnet-dent,Abolladura en cofre / capó,6420
+Ford,Ranger,2015,Pickup,rear-bumper-dent,Abolladura en parachoques trasero,3850
+Chevrolet,S10,2026,Pickup,doorouter-dent,Abolladura en puerta exterior,4010
+Ford,Escape,2022,SUV,fender-dent,Abolladura en salpicadera / guardabarros,2520
+Toyota,Hilux,2016,Pickup,quaterpanel-dent,Abolladura en panel lateral trasero,5720
+Volkswagen,Jetta,2023,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,5440
+Toyota,RAV4,2018,SUV,Headlight-Damage,Faro delantero roto o dañado,2680
+Ford,Escape,2024,SUV,Taillight-Damage,Calavera / luz trasera rota o dañada,2680
+Volkswagen,Polo,2021,Hatchback,Sidemirror-Damage,Espejo lateral roto o desprendido,1510
+Nissan,Sentra,2022,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,5190
+Ford,Figo,2023,Hatchback,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2160
+Chevrolet,Tracker,2021,SUV,roof-dent,Abolladura en toldo / techo,6970
+Chevrolet,Aveo,2018,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,1440
+Chevrolet,Aveo,2026,Sedán,front-bumper-dent,Abolladura en parachoques delantero,3900
+Volkswagen,Jetta,2023,Sedán,bonnet-dent,Abolladura en cofre / capó,4220
+Volkswagen,Polo,2022,Hatchback,rear-bumper-dent,Abolladura en parachoques trasero,3250
+Nissan,March,2025,Hatchback,doorouter-dent,Abolladura en puerta exterior,5330
+Ford,Territory,2017,SUV,fender-dent,Abolladura en salpicadera / guardabarros,2820
+Nissan,Kicks,2023,SUV,quaterpanel-dent,Abolladura en panel lateral trasero,3520
+Chevrolet,Onix,2020,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,6020
+Toyota,Yaris,2018,Sedán,Headlight-Damage,Faro delantero roto o dañado,3720
+Nissan,Frontier,2018,Pickup,Taillight-Damage,Calavera / luz trasera rota o dañada,2340
+Volkswagen,Jetta,2015,Sedán,Sidemirror-Damage,Espejo lateral roto o desprendido,2180
+Volkswagen,Taos,2020,SUV,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,5830
+Toyota,RAV4,2020,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,3340
+Volkswagen,Vento,2019,Sedán,roof-dent,Abolladura en toldo / techo,6260
+Ford,Figo,2019,Hatchback,Signlight-Damage,Luz direccional / cuarto dañado,1080
+Volkswagen,Polo,2017,Hatchback,front-bumper-dent,Abolladura en parachoques delantero,4420
+Nissan,March,2026,Hatchback,bonnet-dent,Abolladura en cofre / capó,4640
+Toyota,RAV4,2026,SUV,rear-bumper-dent,Abolladura en parachoques trasero,2240
+Toyota,Yaris,2019,Sedán,doorouter-dent,Abolladura en puerta exterior,4350
+Ford,Figo,2018,Hatchback,fender-dent,Abolladura en salpicadera / guardabarros,2650
+Toyota,Yaris,2017,Sedán,quaterpanel-dent,Abolladura en panel lateral trasero,4090
+Nissan,Sentra,2020,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,7130
+Chevrolet,Onix,2025,Sedán,Headlight-Damage,Faro delantero roto o dañado,2600
+Chevrolet,Aveo,2022,Sedán,Taillight-Damage,Calavera / luz trasera rota o dañada,3100
+Volkswagen,Tiguan,2024,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,2660
+Volkswagen,Vento,2023,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,7560
+Ford,Focus,2021,Sedán,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2650
+Toyota,Hilux,2015,Pickup,roof-dent,Abolladura en toldo / techo,4320
+Ford,Escape,2021,SUV,Signlight-Damage,Luz direccional / cuarto dañado,830
+Chevrolet,Onix,2021,Sedán,front-bumper-dent,Abolladura en parachoques delantero,4180
+Volkswagen,Jetta,2024,Sedán,bonnet-dent,Abolladura en cofre / capó,4900
+Toyota,Corolla,2024,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,2280
+Ford,Focus,2020,Sedán,doorouter-dent,Abolladura en puerta exterior,3620
+Volkswagen,Polo,2019,Hatchback,fender-dent,Abolladura en salpicadera / guardabarros,3150
+Toyota,Hilux,2026,Pickup,quaterpanel-dent,Abolladura en panel lateral trasero,6880
+Ford,Ranger,2018,Pickup,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,5850
+Volkswagen,Polo,2016,Hatchback,Headlight-Damage,Faro delantero roto o dañado,3190
+Volkswagen,Jetta,2022,Sedán,Taillight-Damage,Calavera / luz trasera rota o dañada,2120
+Ford,Focus,2021,Sedán,Sidemirror-Damage,Espejo lateral roto o desprendido,1650
+Chevrolet,S10,2021,Pickup,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,6640
+Ford,Ranger,2015,Pickup,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2090
+Nissan,Sentra,2020,Sedán,roof-dent,Abolladura en toldo / techo,7220
+Toyota,Avanza,2015,Monovolumen,Signlight-Damage,Luz direccional / cuarto dañado,1950
+Toyota,Avanza,2021,Monovolumen,front-bumper-dent,Abolladura en parachoques delantero,2620
+Chevrolet,Tracker,2019,SUV,bonnet-dent,Abolladura en cofre / capó,3420
+Toyota,Hilux,2019,Pickup,rear-bumper-dent,Abolladura en parachoques trasero,2440
+Ford,Ranger,2026,Pickup,doorouter-dent,Abolladura en puerta exterior,2850
+Chevrolet,S10,2021,Pickup,fender-dent,Abolladura en salpicadera / guardabarros,2760
+Toyota,Corolla,2024,Sedán,quaterpanel-dent,Abolladura en panel lateral trasero,6820
+Ford,Focus,2018,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,5690
+Chevrolet,Tracker,2024,SUV,Headlight-Damage,Faro delantero roto o dañado,3150
+Toyota,Avanza,2018,Monovolumen,Taillight-Damage,Calavera / luz trasera rota o dañada,2920
+Chevrolet,Aveo,2026,Sedán,Sidemirror-Damage,Espejo lateral roto o desprendido,2250
+Volkswagen,Polo,2022,Hatchback,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,7890
+Volkswagen,Polo,2015,Hatchback,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2580
+Volkswagen,Taos,2019,SUV,roof-dent,Abolladura en toldo / techo,6820
+Nissan,Versa,2022,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,1890
+Ford,Ranger,2026,Pickup,front-bumper-dent,Abolladura en parachoques delantero,2750
+Chevrolet,S10,2017,Pickup,bonnet-dent,Abolladura en cofre / capó,5160
+Nissan,Sentra,2022,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,3200
+Chevrolet,Onix,2016,Sedán,doorouter-dent,Abolladura en puerta exterior,3500
+Ford,Focus,2019,Sedán,fender-dent,Abolladura en salpicadera / guardabarros,2770
+Volkswagen,Tiguan,2022,SUV,quaterpanel-dent,Abolladura en panel lateral trasero,6070
+Toyota,Avanza,2023,Monovolumen,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,6470
+Toyota,Yaris,2022,Sedán,Headlight-Damage,Faro delantero roto o dañado,3980
+Nissan,Kicks,2018,SUV,Taillight-Damage,Calavera / luz trasera rota o dañada,2360
+Toyota,Hilux,2015,Pickup,Sidemirror-Damage,Espejo lateral roto o desprendido,2420
+Nissan,Kicks,2023,SUV,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,6390
+Nissan,March,2023,Hatchback,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2340
+Volkswagen,Taos,2015,SUV,roof-dent,Abolladura en toldo / techo,4240
+Toyota,Yaris,2017,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,910
+Ford,Territory,2017,SUV,front-bumper-dent,Abolladura en parachoques delantero,3730
+Toyota,Avanza,2017,Monovolumen,bonnet-dent,Abolladura en cofre / capó,5110
+Ford,Escape,2019,SUV,rear-bumper-dent,Abolladura en parachoques trasero,4160
+Nissan,Frontier,2019,Pickup,doorouter-dent,Abolladura en puerta exterior,4130
+Chevrolet,S10,2017,Pickup,fender-dent,Abolladura en salpicadera / guardabarros,3950
+Volkswagen,Taos,2016,SUV,quaterpanel-dent,Abolladura en panel lateral trasero,6890
+Nissan,Sentra,2024,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,6780
+Toyota,Avanza,2022,Monovolumen,Headlight-Damage,Faro delantero roto o dañado,2000
+Chevrolet,Tracker,2024,SUV,Taillight-Damage,Calavera / luz trasera rota o dañada,1840
+Toyota,Avanza,2020,Monovolumen,Sidemirror-Damage,Espejo lateral roto o desprendido,2980
+Toyota,Yaris,2020,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,8560
+Nissan,Frontier,2018,Pickup,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2400
+Ford,Escape,2026,SUV,roof-dent,Abolladura en toldo / techo,6510
+Volkswagen,Vento,2024,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,1200
+Volkswagen,Tiguan,2016,SUV,front-bumper-dent,Abolladura en parachoques delantero,3670
+Chevrolet,Captiva,2026,SUV,bonnet-dent,Abolladura en cofre / capó,5690
+Nissan,Versa,2017,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,3720
+Nissan,March,2015,Hatchback,doorouter-dent,Abolladura en puerta exterior,3020
+Nissan,Frontier,2020,Pickup,fender-dent,Abolladura en salpicadera / guardabarros,3760
+Toyota,Avanza,2019,Monovolumen,quaterpanel-dent,Abolladura en panel lateral trasero,3650
+Toyota,RAV4,2026,SUV,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,4330
+Volkswagen,Taos,2018,SUV,Headlight-Damage,Faro delantero roto o dañado,2000
+Nissan,Versa,2015,Sedán,Taillight-Damage,Calavera / luz trasera rota o dañada,2940
+Volkswagen,Jetta,2025,Sedán,Sidemirror-Damage,Espejo lateral roto o desprendido,1710
+Ford,Territory,2019,SUV,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,5890
+Ford,Territory,2024,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2460
+Ford,Focus,2026,Sedán,roof-dent,Abolladura en toldo / techo,4350
+Nissan,March,2025,Hatchback,Signlight-Damage,Luz direccional / cuarto dañado,1640
+Nissan,Versa,2015,Sedán,front-bumper-dent,Abolladura en parachoques delantero,3530
+Toyota,Hilux,2017,Pickup,bonnet-dent,Abolladura en cofre / capó,5880
+Chevrolet,Tracker,2019,SUV,rear-bumper-dent,Abolladura en parachoques trasero,3790
+Chevrolet,Onix,2022,Sedán,doorouter-dent,Abolladura en puerta exterior,5170
+Volkswagen,Tiguan,2019,SUV,fender-dent,Abolladura en salpicadera / guardabarros,2060
+Nissan,Versa,2016,Sedán,quaterpanel-dent,Abolladura en panel lateral trasero,6960
+Nissan,Kicks,2019,SUV,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,7370
+Nissan,Kicks,2025,SUV,Headlight-Damage,Faro delantero roto o dañado,3340
+Nissan,Sentra,2023,Sedán,Taillight-Damage,Calavera / luz trasera rota o dañada,2450
+Nissan,Frontier,2021,Pickup,Sidemirror-Damage,Espejo lateral roto o desprendido,2760
+Nissan,Frontier,2019,Pickup,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,9480
+Toyota,Avanza,2019,Monovolumen,RunningBoard-Dent,Abolladura en estribo / escalón lateral,3410
+Chevrolet,Tracker,2015,SUV,roof-dent,Abolladura en toldo / techo,5080
+Nissan,Versa,2017,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,1130
+Ford,Figo,2015,Hatchback,front-bumper-dent,Abolladura en parachoques delantero,4390
+Chevrolet,Captiva,2022,SUV,bonnet-dent,Abolladura en cofre / capó,3080
+Chevrolet,Onix,2020,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,4210
+Volkswagen,Vento,2026,Sedán,doorouter-dent,Abolladura en puerta exterior,5000
+Ford,Ranger,2025,Pickup,fender-dent,Abolladura en salpicadera / guardabarros,2890
+Toyota,Avanza,2016,Monovolumen,quaterpanel-dent,Abolladura en panel lateral trasero,6320
+Ford,Focus,2020,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,6740
+Chevrolet,Tracker,2017,SUV,Headlight-Damage,Faro delantero roto o dañado,4240
+Ford,Figo,2020,Hatchback,Taillight-Damage,Calavera / luz trasera rota o dañada,2540
+Ford,Focus,2017,Sedán,Sidemirror-Damage,Espejo lateral roto o desprendido,2460
+Toyota,Hilux,2024,Pickup,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,9130
+Chevrolet,Aveo,2026,Sedán,RunningBoard-Dent,Abolladura en estribo / escalón lateral,1910
+Toyota,Corolla,2020,Sedán,roof-dent,Abolladura en toldo / techo,6220
+Toyota,RAV4,2025,SUV,Signlight-Damage,Luz direccional / cuarto dañado,1090
+Volkswagen,Jetta,2021,Sedán,front-bumper-dent,Abolladura en parachoques delantero,2820
+Volkswagen,Polo,2022,Hatchback,bonnet-dent,Abolladura en cofre / capó,5440
+Nissan,Kicks,2017,SUV,rear-bumper-dent,Abolladura en parachoques trasero,3540
+Chevrolet,S10,2024,Pickup,doorouter-dent,Abolladura en puerta exterior,3400
+Toyota,Avanza,2016,Monovolumen,fender-dent,Abolladura en salpicadera / guardabarros,2610
+Toyota,Avanza,2020,Monovolumen,quaterpanel-dent,Abolladura en panel lateral trasero,3920
+Nissan,March,2024,Hatchback,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,8020
+Nissan,Sentra,2025,Sedán,Headlight-Damage,Faro delantero roto o dañado,1910
+Nissan,Versa,2020,Sedán,Taillight-Damage,Calavera / luz trasera rota o dañada,1690
+Volkswagen,Tiguan,2015,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,1700
+Nissan,Versa,2017,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,5420
+Chevrolet,Captiva,2021,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2700
+Chevrolet,S10,2024,Pickup,roof-dent,Abolladura en toldo / techo,4170
+Volkswagen,Taos,2021,SUV,Signlight-Damage,Luz direccional / cuarto dañado,1410
+Ford,Ranger,2016,Pickup,front-bumper-dent,Abolladura en parachoques delantero,3620
+Volkswagen,Taos,2023,SUV,bonnet-dent,Abolladura en cofre / capó,5580
+Ford,Focus,2021,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,3040
+Chevrolet,Captiva,2023,SUV,doorouter-dent,Abolladura en puerta exterior,5200
+Ford,Figo,2018,Hatchback,fender-dent,Abolladura en salpicadera / guardabarros,2780
+Nissan,Frontier,2016,Pickup,quaterpanel-dent,Abolladura en panel lateral trasero,3800
+Chevrolet,Aveo,2026,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,4570
+Nissan,Frontier,2020,Pickup,Headlight-Damage,Faro delantero roto o dañado,4230
+Chevrolet,Tracker,2022,SUV,rear_bumber,Calavera / luz trasera rota o dañada,2650
+Toyota,Yaris,2015,Sedán,Sidemirror-Damage,Espejo lateral roto o desprendido,1210
+Toyota,Hilux,2025,Pickup,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,4940
+Nissan,Kicks,2017,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,1830
+Toyota,Hilux,2022,Pickup,roof-dent,Abolladura en toldo / techo,4500
+Chevrolet,Captiva,2026,SUV,Signlight-Damage,Luz direccional / cuarto dañado,1900
+Nissan,Kicks,2023,SUV,front-bumper-dent,Abolladura en parachoques delantero,4300
+Volkswagen,Vento,2017,Sedán,bonnet-dent,Abolladura en cofre / capó,5940
+Toyota,Corolla,2020,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,4050
+Ford,Figo,2018,Hatchback,doorouter-dent,Abolladura en puerta exterior,3450
+Nissan,Sentra,2020,Sedán,fender-dent,Abolladura en salpicadera / guardabarros,3280
+Volkswagen,Polo,2025,Hatchback,quaterpanel-dent,Abolladura en panel lateral trasero,5580
+Chevrolet,Onix,2019,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,4290
+Ford,Focus,2022,Sedán,Headlight-Damage,Faro delantero roto o dañado,3990
+Nissan,Frontier,2023,Pickup,Taillight-Damage,Calavera / luz trasera rota o dañada,3250
+Volkswagen,Taos,2015,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,2730
+Ford,Territory,2016,SUV,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,5120
+Volkswagen,Jetta,2016,Sedán,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2110
+Volkswagen,Jetta,2022,Sedán,roof-dent,Abolladura en toldo / techo,7250
+Ford,Ranger,2022,Pickup,Signlight-Damage,Luz direccional / cuarto dañado,1790
+Toyota,Hilux,2017,Pickup,front-bumper-dent,Abolladura en parachoques delantero,2910
+Toyota,RAV4,2025,SUV,bonnet-dent,Abolladura en cofre / capó,5220
+Ford,Figo,2024,Hatchback,rear-bumper-dent,Abolladura en parachoques trasero,3220
+Volkswagen,Tiguan,2020,SUV,doorouter-dent,Abolladura en puerta exterior,4260
+Nissan,Versa,2015,Sedán,fender-dent,Abolladura en salpicadera / guardabarros,3980
+Chevrolet,S10,2022,Pickup,quaterpanel-dent,Abolladura en panel lateral trasero,4300
+Volkswagen,Taos,2021,SUV,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,7290
+Chevrolet,Captiva,2015,SUV,Headlight-Damage,Faro delantero roto o dañado,3240
+Volkswagen,Polo,2020,Hatchback,Taillight-Damage,Calavera / luz trasera rota o dañada,3230
+Toyota,Avanza,2025,Monovolumen,Sidemirror-Damage,Espejo lateral roto o desprendido,2540
+Ford,Focus,2024,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,6970
+Chevrolet,Aveo,2020,Sedán,RunningBoard-Dent,Abolladura en estribo / escalón lateral,3200
+Ford,Ranger,2022,Pickup,roof-dent,Abolladura en toldo / techo,6720
+Toyota,Avanza,2018,Monovolumen,Signlight-Damage,Luz direccional / cuarto dañado,1670
+Chevrolet,Tracker,2017,SUV,front-bumper-dent,Abolladura en parachoques delantero,4230
+Ford,Focus,2025,Sedán,bonnet-dent,Abolladura en cofre / capó,5100
+Ford,Escape,2024,SUV,rear-bumper-dent,Abolladura en parachoques trasero,3090
+Chevrolet,Tracker,2026,SUV,doorouter-dent,Abolladura en puerta exterior,5260
+Chevrolet,Aveo,2015,Sedán,fender-dent,Abolladura en salpicadera / guardabarros,2040
+Ford,Escape,2026,SUV,quaterpanel-dent,Abolladura en panel lateral trasero,3860
+Ford,Ranger,2022,Pickup,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,4100
+Chevrolet,Aveo,2026,Sedán,Headlight-Damage,Faro delantero roto o dañado,2810
+Nissan,Kicks,2022,SUV,Taillight-Damage,Calavera / luz trasera rota o dañada,3430
+Volkswagen,Jetta,2019,Sedán,Sidemirror-Damage,Espejo lateral roto o desprendido,2970
+Ford,Figo,2015,Hatchback,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,8850
+Volkswagen,Tiguan,2023,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,3070
+Chevrolet,Captiva,2023,SUV,roof-dent,Abolladura en toldo / techo,4020
+Nissan,Kicks,2018,SUV,Signlight-Damage,Luz direccional / cuarto dañado,1440
+Volkswagen,Vento,2021,Sedán,front-bumper-dent,Abolladura en parachoques delantero,3370
+Chevrolet,Tracker,2015,SUV,bonnet-dent,Abolladura en cofre / capó,5050
+Volkswagen,Polo,2025,Hatchback,rear-bumper-dent,Abolladura en parachoques trasero,2570
+Nissan,March,2020,Hatchback,doorouter-dent,Abolladura en puerta exterior,2890
+Nissan,Versa,2025,Sedán,fender-dent,Abolladura en salpicadera / guardabarros,3390
+Ford,Focus,2019,Sedán,quaterpanel-dent,Abolladura en panel lateral trasero,5300
+Nissan,March,2023,Hatchback,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,4670
+Ford,Ranger,2022,Pickup,Headlight-Damage,Faro delantero roto o dañado,3160
+Nissan,Frontier,2021,Pickup,Taillight-Damage,Calavera / luz trasera rota o dañada,2480
+Volkswagen,Tiguan,2015,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,1270
+Volkswagen,Vento,2015,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,8380
+Chevrolet,Onix,2020,Sedán,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2550
+Chevrolet,Tracker,2018,SUV,roof-dent,Abolladura en toldo / techo,4820
+Toyota,RAV4,2024,SUV,Signlight-Damage,Luz direccional / cuarto dañado,1120
+Chevrolet,Captiva,2015,SUV,front-bumper-dent,Abolladura en parachoques delantero,2560
+Ford,Focus,2021,Sedán,bonnet-dent,Abolladura en cofre / capó,5310
+Nissan,Versa,2021,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,2860
+Volkswagen,Tiguan,2022,SUV,doorouter-dent,Abolladura en puerta exterior,3080
+Toyota,RAV4,2017,SUV,fender-dent,Abolladura en salpicadera / guardabarros,3440
+Chevrolet,Tracker,2023,SUV,Taillight-Damage,Abolladura en panel lateral trasero,6030
+Volkswagen,Polo,2018,Hatchback,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,7010
+Toyota,Corolla,2021,Sedán,Headlight-Damage,Faro delantero roto o dañado,3510
+Nissan,Frontier,2017,Pickup,Taillight-Damage,Calavera / luz trasera rota o dañada,1780
+Volkswagen,Polo,2026,Hatchback,Sidemirror-Damage,Espejo lateral roto o desprendido,2470
+Nissan,Frontier,2018,Pickup,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,6180
+Chevrolet,Tracker,2021,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,1860
+Ford,Ranger,2019,Pickup,roof-dent,Abolladura en toldo / techo,5840
+Nissan,Sentra,2019,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,1150
+Ford,Focus,2020,Sedán,front-bumper-dent,Abolladura en parachoques delantero,4450
+Nissan,Sentra,2022,Sedán,bonnet-dent,Abolladura en cofre / capó,6450
+Nissan,Sentra,2017,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,3530
+Nissan,Sentra,2023,Sedán,doorouter-dent,Abolladura en puerta exterior,3500
+Volkswagen,Polo,2024,Hatchback,fender-dent,Abolladura en salpicadera / guardabarros,3160
+Toyota,Corolla,2021,Sedán,quaterpanel-dent,Abolladura en panel lateral trasero,5890
+Chevrolet,S10,2024,Pickup,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,6590
+Chevrolet,Aveo,2019,Sedán,Headlight-Damage,Faro delantero roto o dañado,3560
+Chevrolet,Captiva,2021,SUV,Taillight-Damage,Calavera / luz trasera rota o dañada,1750
+Toyota,RAV4,2023,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,1680
+Volkswagen,Vento,2026,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,7670
+Toyota,Corolla,2015,Sedán,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2510
+Ford,Focus,2016,Sedán,roof-dent,Abolladura en toldo / techo,4750
+Volkswagen,Jetta,2017,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,910
+Volkswagen,Vento,2019,Sedán,front-bumper-dent,Abolladura en parachoques delantero,4590
+Volkswagen,Polo,2015,Hatchback,bonnet-dent,Abolladura en cofre / capó,5530
+Volkswagen,Vento,2021,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,3930
+Toyota,Yaris,2024,Sedán,doorouter-dent,Abolladura en puerta exterior,2880
+Ford,Escape,2017,SUV,fender-dent,Abolladura en salpicadera / guardabarros,3850
+Nissan,Kicks,2025,SUV,quaterpanel-dent,Abolladura en panel lateral trasero,4670
+Chevrolet,Onix,2019,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,5550
+Nissan,Versa,2023,Sedán,Headlight-Damage,Faro delantero roto o dañado,3700
+Chevrolet,Aveo,2021,Sedán,Taillight-Damage,Calavera / luz trasera rota o dañada,1670
+Chevrolet,S10,2026,Pickup,Sidemirror-Damage,Espejo lateral roto o desprendido,2450
+Chevrolet,Captiva,2017,SUV,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,6070
+Volkswagen,Taos,2015,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2030
+Chevrolet,Aveo,2021,Sedán,roof-dent,Abolladura en toldo / techo,6350
+Ford,Escape,2022,SUV,Signlight-Damage,Luz direccional / cuarto dañado,1570
+Nissan,Frontier,2020,Pickup,front-bumper-dent,Abolladura en parachoques delantero,4090
+Nissan,Sentra,2023,Sedán,bonnet-dent,Abolladura en cofre / capó,5260
+Volkswagen,Vento,2023,Sedán,rear-bumper-dent,Abolladura en parachoques trasero,4650
+Chevrolet,Aveo,2021,Sedán,doorouter-dent,Abolladura en puerta exterior,4300
+Chevrolet,S10,2021,Pickup,fender-dent,Abolladura en salpicadera / guardabarros,2650
+Chevrolet,Tracker,2021,SUV,quaterpanel-dent,Abolladura en panel lateral trasero,6280
+Ford,Escape,2016,SUV,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,6350
+Nissan,Kicks,2026,SUV,Headlight-Damage,Faro delantero roto o dañado,2130
+Chevrolet,Tracker,2019,SUV,Taillight-Damage,Calavera / luz trasera rota o dañada,2720
+Chevrolet,Captiva,2021,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,1770
+Nissan,March,2020,Hatchback,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,6090
+Chevrolet,Aveo,2024,Sedán,RunningBoard-Dent,Abolladura en estribo / escalón lateral,3290
+Chevrolet,Tracker,2024,SUV,roof-dent,Abolladura en toldo / techo,8460
+Volkswagen,Tiguan,2016,SUV,Signlight-Damage,Luz direccional / cuarto dañado,1930
+Volkswagen,Taos,2021,SUV,front-bumper-dent,Abolladura en parachoques delantero,2520
+Toyota,Yaris,2019,Sedán,bonnet-dent,Abolladura en cofre / capó,4680
+Ford,Figo,2024,Hatchback,rear-bumper-dent,Abolladura en parachoques trasero,2440
+Ford,Ranger,2015,Pickup,doorouter-dent,Abolladura en puerta exterior,3440
+Volkswagen,Tiguan,2022,SUV,fender-dent,Abolladura en salpicadera / guardabarros,2630
+Ford,Focus,2019,Sedán,quaterpanel-dent,Abolladura en panel lateral trasero,3650
+Nissan,Frontier,2023,Pickup,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,4490
+Nissan,March,2026,Hatchback,Headlight-Damage,Faro delantero roto o dañado,4380
+Toyota,Avanza,2019,Monovolumen,Taillight-Damage,Calavera / luz trasera rota o dañada,1710
+Volkswagen,Tiguan,2016,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,1500
+Ford,Territory,2025,SUV,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,6510
+Toyota,Avanza,2017,Monovolumen,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2670
+Chevrolet,Tracker,2016,SUV,roof-dent,Abolladura en toldo / techo,5730
+Nissan,Versa,2024,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,1740
+Toyota,Avanza,2020,Monovolumen,front-bumper-dent,Abolladura en parachoques delantero,4920
+Nissan,Versa,2017,Sedán,bonnet-dent,Abolladura en cofre / capó,5090
+Nissan,Frontier,2025,Pickup,rear-bumper-dent,Abolladura en parachoques trasero,3230
+Chevrolet,Onix,2015,Sedán,doorouter-dent,Abolladura en puerta exterior,3220
+Volkswagen,Tiguan,2022,SUV,fender-dent,Abolladura en salpicadera / guardabarros,3650
+Nissan,Versa,2018,Sedán,quaterpanel-dent,Abolladura en panel lateral trasero,5530
+Chevrolet,Tracker,2023,SUV,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,5760
+Volkswagen,Polo,2023,Hatchback,Headlight-Damage,Faro delantero roto o dañado,1920
+Chevrolet,Captiva,2024,SUV,Taillight-Damage,Calavera / luz trasera rota o dañada,3360
+Nissan,Frontier,2025,Pickup,Sidemirror-Damage,Espejo lateral roto o desprendido,1360
+Ford,Escape,2019,SUV,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,4740
+Chevrolet,S10,2026,Pickup,RunningBoard-Dent,Abolladura en estribo / escalón lateral,1990
+Ford,Ranger,2015,Pickup,roof-dent,Abolladura en toldo / techo,4280
+Toyota,Avanza,2017,Monovolumen,Signlight-Damage,Luz direccional / cuarto dañado,1790
+Chevrolet,Tracker,2015,SUV,front-bumper-dent,Abolladura en parachoques delantero,4700
+Volkswagen,Polo,2015,Hatchback,bonnet-dent,Abolladura en cofre / capó,3550
+Nissan,Frontier,2025,Pickup,rear-bumper-dent,Abolladura en parachoques trasero,2820
+Toyota,Corolla,2018,Sedán,doorouter-dent,Abolladura en puerta exterior,4470
+Ford,Ranger,2025,Pickup,fender-dent,Abolladura en salpicadera / guardabarros,4110
+Nissan,Kicks,2021,SUV,quaterpanel-dent,Abolladura en panel lateral trasero,3520
+Volkswagen,Tiguan,2021,SUV,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,4720
+Ford,Focus,2026,Sedán,Headlight-Damage,Faro delantero roto o dañado,1820
+Toyota,RAV4,2015,SUV,Taillight-Damage,Calavera / luz trasera rota o dañada,2790
+Chevrolet,Captiva,2022,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,2670
+Volkswagen,Vento,2023,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,9310
+Ford,Territory,2019,SUV,RunningBoard-Dent,Abolladura en estribo / escalón lateral,1970
+Ford,Territory,2018,SUV,roof-dent,Abolladura en toldo / techo,4310
+Volkswagen,Jetta,2026,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,880
+Chevrolet,Aveo,2020,Sedán,front-bumper-dent,Abolladura en parachoques delantero,4050
+Volkswagen,Vento,2016,Sedán,bonnet-dent,Abolladura en cofre / capó,6470
+Toyota,Hilux,2018,Pickup,rear-bumper-dent,Abolladura en parachoques trasero,3880
+Ford,Ranger,2026,Pickup,doorouter-dent,Abolladura en puerta exterior,2870
+Volkswagen,Jetta,2020,Sedán,fender-dent,Abolladura en salpicadera / guardabarros,2820
+Volkswagen,Taos,2024,SUV,quaterpanel-dent,Abolladura en panel lateral trasero,3500
+Chevrolet,Onix,2018,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,5920
+Toyota,Yaris,2021,Sedán,Headlight-Damage,Faro delantero roto o dañado,3220
+Toyota,Avanza,2025,Monovolumen,Taillight-Damage,Calavera / luz trasera rota o dañada,2010
+Chevrolet,Captiva,2020,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,1440
+Volkswagen,Jetta,2026,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,4660
+Toyota,Avanza,2019,Monovolumen,RunningBoard-Dent,Abolladura en estribo / escalón lateral,2890
+Volkswagen,Jetta,2019,Sedán,roof-dent,Abolladura en toldo / techo,8430
+Nissan,Sentra,2026,Sedán,Signlight-Damage,Luz direccional / cuarto dañado,1670
+Chevrolet,S10,2017,Pickup,front-bumper-dent,Abolladura en parachoques delantero,2580
+Nissan,March,2016,Hatchback,bonnet-dent,Abolladura en cofre / capó,6030
+Volkswagen,Polo,2023,Hatchback,rear-bumper-dent,Abolladura en parachoques trasero,4460
+Toyota,RAV4,2016,SUV,doorouter-dent,Abolladura en puerta exterior,4850
+Volkswagen,Tiguan,2026,SUV,fender-dent,Abolladura en salpicadera / guardabarros,2070
+Ford,Focus,2017,Sedán,quaterpanel-dent,Abolladura en panel lateral trasero,4150
+Nissan,Versa,2026,Sedán,Rear-windscreen-Damage,Cristal / medallón trasero roto o dañado,5110
+Nissan,Versa,2026,Sedán,Headlight-Damage,Faro delantero roto o dañado,1970
+Toyota,Avanza,2016,Monovolumen,Taillight-Damage,Calavera / luz trasera rota o dañada,3330
+Volkswagen,Tiguan,2015,SUV,Sidemirror-Damage,Espejo lateral roto o desprendido,1220
+Chevrolet,Onix,2020,Sedán,Front-Windscreen-Damage,Parabrisas delantero estrellado o roto,5960
+Toyota,Yaris,2015,Sedán,RunningBoard-Dent,Abolladura en estribo / escalón lateral,3420

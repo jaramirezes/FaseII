@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>download--2-_jpg.rf.05d83ae8c14698266e7f34bfc83701f8.jpg</filename>
+	<path>download--2-_jpg.rf.05d83ae8c14698266e7f34bfc83701f8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RunningBoard-Dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>624</xmax>
+			<ymin>306</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

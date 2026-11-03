@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>car-accident-50876437_jpg.rf.fb6a321c20eca9be99c43d7971cffa07.jpg</filename>
+	<path>car-accident-50876437_jpg.rf.fb6a321c20eca9be99c43d7971cffa07.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doorouter-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>359</xmin>
+			<xmax>640</xmax>
+			<ymin>142</ymin>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

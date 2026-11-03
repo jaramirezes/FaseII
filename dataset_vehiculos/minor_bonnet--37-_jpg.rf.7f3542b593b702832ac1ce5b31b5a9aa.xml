@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>minor_bonnet--37-_jpg.rf.7f3542b593b702832ac1ce5b31b5a9aa.jpg</filename>
+	<path>minor_bonnet--37-_jpg.rf.7f3542b593b702832ac1ce5b31b5a9aa.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bonnet-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>234</xmin>
+			<xmax>490</xmax>
+			<ymin>211</ymin>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

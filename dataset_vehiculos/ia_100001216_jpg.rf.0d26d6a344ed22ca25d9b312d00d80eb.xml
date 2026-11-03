@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ia_100001216_jpg.rf.0d26d6a344ed22ca25d9b312d00d80eb.jpg</filename>
+	<path>ia_100001216_jpg.rf.0d26d6a344ed22ca25d9b312d00d80eb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>front-bumper-dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>639</xmax>
+			<ymin>4</ymin>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

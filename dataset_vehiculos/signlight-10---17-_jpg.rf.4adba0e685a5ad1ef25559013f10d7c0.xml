@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>signlight-10---17-_jpg.rf.4adba0e685a5ad1ef25559013f10d7c0.jpg</filename>
+	<path>signlight-10---17-_jpg.rf.4adba0e685a5ad1ef25559013f10d7c0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Headlight-Damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>245</xmin>
+			<xmax>513</xmax>
+			<ymin>32</ymin>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

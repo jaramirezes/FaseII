@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>signlight-10---26-_jpg.rf.ac663a79ed2a94c873be805a0afcc927.jpg</filename>
+	<path>signlight-10---26-_jpg.rf.ac663a79ed2a94c873be805a0afcc927.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taillight-Damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>207</xmin>
+			<xmax>524</xmax>
+			<ymin>79</ymin>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rear_winscreen--88-_jpg.rf.b5416bf493c7a428339c42b364477ea3.jpg</filename>
+	<path>rear_winscreen--88-_jpg.rf.b5416bf493c7a428339c42b364477ea3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rear-windscreen-Damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>639</xmax>
+			<ymin>186</ymin>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>
