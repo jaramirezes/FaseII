@@ -22,6 +22,7 @@ El repositorio se encuentra organizado de la siguiente manera para garantizar po
 ```text
 FaseII
 .
+
 ├── carga                                     # Carpeta de insumos y catálogos base
 │   ├── imagenes_entrenamiento.zip            # Dataset comprimido para entrenamiento
 │   └── tabulador_costos_siniestros.csv       # Tabulador financiero de costos de siniestros
@@ -38,7 +39,9 @@ FaseII
 ├── frontend.py                               # Interfaz de usuario interactiva desarrollada con Streamlit para el consumo de la API.
 ├── main.py                                   # Script de ejecución general del sistema para generar la API.
 ├── modelo_siniestros.py                      # Módulo principal con la lógica del modelo y flujos
+├── modelo\\\_siniestros.py                      # Módulo principal con la lógica del modelo y flujos
 ├── README.md                                 # Documentación del proyecto
 ├── requirements.txt                          # Archivo de dependencias y librerías Python
 └── simular.py                                # Script de simulación, inferencia y cruce con tabulador
+
 
