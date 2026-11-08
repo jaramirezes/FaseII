@@ -13,3 +13,4 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1
 - **Gestión de Datos (`datos/`)**: Organización de los insumos (`imagenes_entrenamiento.zip` y `tabulador_costos_siniestros.csv`) dentro del directorio unificado de datos.
 - **Modelo Vision Transformer (ViT)**: Integración del modelo entrenado `modelo_vit_siniestros` para clasificación de daños y cálculo de costos financieros.
 - **Contenerización y Despliegue**: Configuración de `Dockerfile` y `requirements.txt` para la ejecución modular y reproducible del entorno.
+- **Documentación y Evidencias (`docs`/)**: Incorporación del directorio de documentación formal para albergar los reportes de integración y las evidencias del contenedor Docker funcional.
