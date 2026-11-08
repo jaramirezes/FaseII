@@ -23,25 +23,20 @@ El repositorio se encuentra organizado de la siguiente manera para garantizar po
 FaseII
 .
 
-├── carga                                     # Carpeta de insumos y catálogos base
+├── datos                                     # Carpeta de insumos y catálogos base
 │   ├── imagenes_entrenamiento.zip            # Dataset comprimido para entrenamiento
 │   └── tabulador_costos_siniestros.csv       # Tabulador financiero de costos de siniestros
-├── dataset_vehiculos                         # Imágenes limpias y listas para evaluación
-│   ├── 1_jpeg.rf.e50d9b86c2a17747f...jpg     # Archivo de imagen de prueba de daños
-│   ├── 1_jpeg.rf.6cc41989e29fc638...jpg      # Archivo de imagen de prueba de daños
-│   ├── 6---1--jpeg.rf.81ff429e14d...jpg      # Archivo de imagen de prueba de daños
-│   └── ...                                   # Resto de imágenes del dataset de evaluación
+├── fuentes/                                  # Módulos y scripts de código fuente del sistema
+│   ├── frontend.py                           # Interfaz gráfica y de usuario para interacción
+│   ├── main.py                               # Script principal de la API y puntos de entrada (Endpoints)
+│   ├── modelo_siniestros.py                  # Lógica de procesamiento y arquitectura de inferencia
+│   └── simular.py                            # Script de pruebas funcionales y simulación de peticiones
 ├── modelo_vit_siniestros                     # Modelo Vision Transformer (ViT) entrenado
 │   ├── config.json                           # Archivo de configuración de la arquitectura ViT
 │   ├── model.safetensors                     # Pesos del modelo optimizados con SafeTensors (No lo cargue por que mide 335 mb, se anexa en una liga de drive)
 │   └── preprocessor_config.json              # Configuración del procesador de imágenes
 ├── Dockerfile                                # Configuración para la contenerización local
-├── frontend.py                               # Interfaz de usuario interactiva desarrollada con Streamlit para el consumo de la API.
-├── main.py                                   # Script de ejecución general del sistema para generar la API.
-├── modelo_siniestros.py                      # Módulo principal con la lógica del modelo y flujos
-├── modelo\\\_siniestros.py                      # Módulo principal con la lógica del modelo y flujos
 ├── README.md                                 # Documentación del proyecto
-├── requirements.txt                          # Archivo de dependencias y librerías Python
-└── simular.py                                # Script de simulación, inferencia y cruce con tabulador
-
+└── requirements.txt                          # Archivo de dependencias y librerías Python
+ 
 
