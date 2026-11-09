@@ -1,5 +1,6 @@
 import streamlit as st
 import requests
+import os
 
 st.title("🚗 Evaluación de Siniestros Automotrices")
 st.write("Sube una imagen y llena los datos para evaluar el siniestro.")
@@ -20,9 +21,10 @@ if submit:
         files = {"imagen": (imagen.name, imagen.getvalue(), imagen.type)}
         data = {"marca": marca, "modelo": modelo, "anio": anio, "tipo_vehiculo": tipo}
         
-        # Hacemos la petición a tu backend
         try:
-            response = requests.post("http://127.0.0.1:8000/predict", data=data, files=files)
+            url_api = os.getenv("API_URL", "http://127.0.0.1:8000/predict")
+            
+            response = requests.post(url_api, data=data, files=files)
             
             if response.status_code == 200:
                 resultado = response.json()
