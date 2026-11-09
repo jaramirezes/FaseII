@@ -7,9 +7,10 @@ Solución técnica completa, contenerizada y desplegable orientada al procesamie
 
 1. Descripción General del Proyecto
 2. Estructura del Repositorio
-3. [Contenedor Docker Funcional](docs/Contenedor%20Docker%20funcional.docx)
-4. [Manual de Despliegue en la Nube](docs/Manual%20de%20despliegue%20en%20la%20nube.docx)
-5. [Documento de Validación y Pruebas](docs/Validaci%C3%B3n%20y%20Pruebas.docx)
+3. [FaseII](docs/FaseII.docx)
+4. [Contenedor Docker Funcional](docs/Contenedor%20Docker%20funcional.docx)
+5. [Manual de Despliegue en la Nube](docs/Manual%20de%20despliegue%20en%20la%20nube.docx)
+6. [Documento de Validación y Pruebas](docs/Validaci%C3%B3n%20y%20Pruebas.docx)
 
 ## 🎯 1. Descripción General del Proyecto
 
@@ -27,9 +28,9 @@ FaseII
 │   ├── imagenes_entrenamiento.zip            # Dataset comprimido para entrenamiento
 │   └── tabulador_costos_siniestros.csv       # Tabulador financiero de costos de siniestros
 ├── docs/                                     # Documentos del proyecto
+│   ├── FaseII.docx                           # Reporte integrador del proyecto 
 │   ├── Contenedor Docker Funcional.docx      # Guía y evidencias de la configuración y ejecución del contenedor Docker
 │   ├── Manual de Despliegue en la Nube.docx  # Instrucciones paso a paso para el despliegue del servicio en la nube
-│   ├── FaseII.docx                           # Reporte integrador del proyecto 
 │   └── Validación y Pruebas.docx             # Casos de prueba, script de pruebas funcionales y simulación de peticiones
 ├── fuentes/                                  # Módulos y scripts de código fuente del sistema
 │   ├── frontend.py                           # Interfaz gráfica y de usuario para interacción
